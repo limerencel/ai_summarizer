@@ -9,7 +9,7 @@ const Hero = () => {
           <button
             type="button"
             onClick={() => {
-              window.open("https://google.com");
+              window.open("https://github.com/limerencel/ai_summarizer");
             }}
             className="black_btn"
           >
